@@ -1,0 +1,2 @@
+# mycsharp
+sample csharp project
